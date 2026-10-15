@@ -1,0 +1,13 @@
+{
+    "addons":  {
+                   "reddit-lite@tarolg.local":  {
+                                                    "updates":  [
+                                                                    {
+                                                                        "version":  "0.3.3",
+                                                                        "update_link":  "https://raw.githubusercontent.com/BrTarolg/RedditLite-updates/main/reddit-lite-0.3.3.xpi",
+                                                                        "update_hash":  "sha256:79d407c5592914a31e3c969346ad18574fc5637a6b164a3df33e8d4a9906184c"
+                                                                    }
+                                                                ]
+                                                }
+               }
+}
