@@ -3,9 +3,9 @@
                    "reddit-lite@tarolg.local":  {
                                                     "updates":  [
                                                                     {
-                                                                        "version":  "0.3.16",
-                                                                        "update_link":  "https://raw.githubusercontent.com/BrTarolg/RedditLite-updates/main/reddit-lite-0.3.16.xpi",
-                                                                        "update_hash":  "sha256:9765005d2abbc9f6d72fcd0e8d3ad54d790bedb953fd9ef6c1c29a5adf04bd8d"
+                                                                        "version":  "0.3.17",
+                                                                        "update_link":  "https://raw.githubusercontent.com/BrTarolg/RedditLite-updates/main/reddit-lite-0.3.17.xpi",
+                                                                        "update_hash":  "sha256:319870d7215550e686f57c7e98ec622ff905c7e93ea9bd2db28f56237f3b20cd"
                                                                     }
                                                                 ]
                                                 }
